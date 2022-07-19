@@ -3,7 +3,7 @@
 require_once __DIR__ . '/../vendor/autoload.php'; // Autoload files using Composer autoload
 
 use PHPUnit\Framework\TestCase;
-use Snipe\BanBuilder\CensorWords;
+use MetalCar\BanBuilder\CensorWords;
 
 class CensorTest extends TestCase
 {
